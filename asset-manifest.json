@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paogall112/DigitalClock/static/css/main.f855e6bc.css",
+    "main.js": "/paogall112/DigitalClock/static/js/main.9452ba75.js",
+    "static/js/453.f10080c1.chunk.js": "/paogall112/DigitalClock/static/js/453.f10080c1.chunk.js",
+    "index.html": "/paogall112/DigitalClock/index.html",
+    "main.f855e6bc.css.map": "/paogall112/DigitalClock/static/css/main.f855e6bc.css.map",
+    "main.9452ba75.js.map": "/paogall112/DigitalClock/static/js/main.9452ba75.js.map",
+    "453.f10080c1.chunk.js.map": "/paogall112/DigitalClock/static/js/453.f10080c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9452ba75.js"
+  ]
+}
